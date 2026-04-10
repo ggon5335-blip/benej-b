@@ -1,0 +1,16 @@
+// manifest.json
+{
+  "name": "VideoVoiceMessage",
+  "description": "Choisis une vidéo, extrait l'audio et l'envoie comme un vrai vocal Discord.",
+  "authors": [
+    {
+      "name": "Deku",
+      "id": "000000000000000000"
+    }
+  ],
+  "main": "index.js",
+  "hash": "video-voice-message",
+  "vendetta": {
+    "icon": "🎤"
+  }
+}
